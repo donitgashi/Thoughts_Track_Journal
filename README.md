@@ -19,7 +19,7 @@ How to install and run the app
    - Select the project folder 
 3. Wait for Gradle sync to finish  
 4. Run the app  
-   - Select a device (emulator or phone) from the top device selector  
+   - Select a device in the emulator
    - Click Run ▶
    - Android Studio will build and install the app automatically.
 
@@ -29,7 +29,7 @@ Option 1: Android Studio
 1. Open the test folder:
    app/src/test/java/com/example/thought_track
 2. Right-click a test file (e.g., EntryRepositoryTest or EntryListModelTest)  
-3. Click Run EntryRepositoryTest or EntryListModelTest
+3. Click Run ▶ EntryRepositoryTest or EntryListModelTest
 
 ---
 Go and Store your thoughts and memories!!!
