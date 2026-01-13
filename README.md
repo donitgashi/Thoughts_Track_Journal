@@ -1,13 +1,37 @@
-# MindTrack Journal — Android
+ThoughtTrack Journal
 
-- Multi-activity (List, Detail, Add/Edit)
-- Room 2.8.0 + Flow + Coroutines
-- Material 3 UI + Photo Picker
-- **Robolectric** DAO test and **GitHub Actions CI**
+ThoughtTrack Journal is a simple Android journaling app for collecting memories and thoughts.  
+---
+Requirements to build/run
 
-## Open in Android Studio
-- File → Open → `MindTrackJournal-1` (this folder)
-- Let Gradle sync; Android Studio will fetch the wrapper JAR from the URL in
-  `gradle/wrapper/gradle-wrapper.properties` (no manual steps).
-- Run configuration: **app** (API 26+).
+- Android Studio 
+- JDK 17 
+- Android SDK installed via Android Studio
+- An emulator 
+
+---
+
+How to install and run the app
+
+1. Download or clone the repository  
+2. Open Android Studio  
+   - File → Open
+   - Select the project folder 
+3. Wait for Gradle sync to finish  
+4. Run the app  
+   - Select a device (emulator or phone) from the top device selector  
+   - Click Run ▶
+   - Android Studio will build and install the app automatically.
+
+---
+How to run unit tests
+Option 1: Android Studio
+1. Open the test folder:
+   app/src/test/java/com/example/thought_track
+2. Right-click a test file (e.g., EntryRepositoryTest or EntryListModelTest)  
+3. Click Run EntryRepositoryTest or EntryListModelTest
+
+---
+Go and Store your thoughts and memories!!!
+
 
