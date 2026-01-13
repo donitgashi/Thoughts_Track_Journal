@@ -1,6 +1,6 @@
-ThoughtTrack Journal
+Thought Track Journal
 
-ThoughtTrack Journal is a simple Android journaling app for collecting memories and thoughts.  
+Thought Track Journal is a simple Android journaling app for collecting memories and thoughts.  
 ---
 Requirements to build/run
 
