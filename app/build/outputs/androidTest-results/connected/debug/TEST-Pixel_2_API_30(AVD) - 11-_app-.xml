@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.mindtrack.InstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="1.837" timestamp="2026-01-12T09:37:23" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_30(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="ok" classname="com.example.mindtrack.InstrumentedTest" time="0.04" />
+</testsuite>

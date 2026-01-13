@@ -1,0 +1,2 @@
+01-12 10:37:20.909 24241 24264 I TestRunner: started: ok(com.example.mindtrack.InstrumentedTest)
+01-12 10:37:20.916 24241 24264 I TestRunner: finished: ok(com.example.mindtrack.InstrumentedTest)

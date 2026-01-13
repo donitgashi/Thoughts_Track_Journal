@@ -1,0 +1,6 @@
+com.example.mindtrack.test.app-core-1.6.1-0 /Users/donitgashi/.gradle/caches/8.13/transforms/9c80d84c0bb2e3181ce38755d127f8aa/transformed/core-1.6.1/res
+com.example.mindtrack.test.app-tracing-1.2.0-1 /Users/donitgashi/.gradle/caches/8.13/transforms/df5d75340eb6555ba212840224ab529c/transformed/tracing-1.2.0/res
+com.example.mindtrack.test.app-androidTest-2 /Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/generated/res/resValues/androidTest/debug
+com.example.mindtrack.test.app-mergeDebugAndroidTestResources-3 /Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.mindtrack.test.app-mergeDebugAndroidTestResources-4 /Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.mindtrack.test.app-debugAndroidTest-5 /Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

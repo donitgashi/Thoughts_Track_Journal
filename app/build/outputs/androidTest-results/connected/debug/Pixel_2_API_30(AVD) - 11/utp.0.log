@@ -1,0 +1,43 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.example.mindtrack"
+    test_package: "com.example.mindtrack.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.example.mindtrack/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "com.example.mindtrack.InstrumentedTest#ok"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "/Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/apk/debug/app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "/Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [/Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/apk/debug/app-debug.apk] on device emulator-5554.
+INFO: Installing [/Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk] on device emulator-5554.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/com.example.mindtrack/additional_test_output to /Users/donitgashi/Downloads/MindTrackJournal-1-main-4/app/build/outputs/connected_android_test_additional_output/debugAndroidTest/connected/Pixel_2_API_30(AVD) - 11
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.example.mindtrack for device emulator-5554.
+INFO: Uninstalling com.example.mindtrack.test for device emulator-5554.
+INFO: Execute com.example.mindtrack.InstrumentedTest.ok: PASSED

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mindtrack.data.repo.EntryRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-12T13:10:53.038Z" hostname="Donits-MacBook-Air.local" time="0.086">
+  <properties/>
+  <testcase name="entries flow mirrors dao emissions" classname="com.example.mindtrack.data.repo.EntryRepositoryTest" time="0.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
