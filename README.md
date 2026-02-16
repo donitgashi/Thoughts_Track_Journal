@@ -1,6 +1,6 @@
-Mind Track Journal
+Thought Track Journal
 
-Mind Track Journal is a simple Android journaling app for collecting memories and thoughts.  
+Thought Track Journal is a simple Android journaling app for collecting memories and thoughts.  
 ---
 Requirements to build/run
 
